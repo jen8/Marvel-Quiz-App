@@ -1,1 +1,1 @@
-web: node quiz2.js
+web: javascript quiz2.js
