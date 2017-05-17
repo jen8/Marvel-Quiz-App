@@ -1,0 +1,26 @@
+{
+  "name": "Marvel Quiz",
+  "version": "0.2.6",
+  "description": "Quiz Web Application",
+  "engines": {
+    "node": "6.7.0"
+  },
+  "main": "quiz2.js",
+  "scripts": {
+    "start": "node quiz2.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jen8/Marvel-Quiz-App"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
